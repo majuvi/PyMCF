@@ -1,0 +1,205 @@
+Sample;Time;Event;Treatment
+1;219;1;Gamma Interferon
+1;373;1;Gamma Interferon
+1;414;0;Gamma Interferon
+2;8;1;Placebo
+2;26;1;Placebo
+2;152;1;Placebo
+2;241;1;Placebo
+2;249;1;Placebo
+2;322;1;Placebo
+2;350;1;Placebo
+2;439;0;Placebo
+3;382;0;Gamma Interferon
+4;388;0;Gamma Interferon
+5;246;1;Placebo
+5;253;1;Placebo
+5;383;0;Placebo
+6;364;0;Gamma Interferon
+7;292;1;Placebo
+7;364;0;Placebo
+8;363;0;Gamma Interferon
+9;294;1;Placebo
+9;349;0;Placebo
+10;371;0;Gamma Interferon
+11;19;1;Placebo
+11;102;0;Placebo
+12;373;1;Gamma Interferon
+12;388;0;Gamma Interferon
+13;388;0;Gamma Interferon
+14;211;1;Placebo
+14;260;1;Placebo
+14;265;1;Placebo
+14;269;1;Placebo
+14;307;1;Placebo
+14;363;0;Placebo
+15;82;1;Gamma Interferon
+15;114;1;Gamma Interferon
+15;337;1;Gamma Interferon
+15;367;0;Gamma Interferon
+16;365;0;Placebo
+17;334;1;Placebo
+17;370;1;Placebo
+17;382;0;Placebo
+18;18;1;Placebo
+18;362;0;Placebo
+19;373;0;Gamma Interferon
+20;280;1;Placebo
+20;385;0;Placebo
+21;376;0;Gamma Interferon
+22;360;0;Gamma Interferon
+23;306;0;Placebo
+24;160;0;Gamma Interferon
+25;146;1;Placebo
+25;316;0;Placebo
+26;316;0;Placebo
+27;315;0;Gamma Interferon
+28;357;0;Placebo
+29;267;1;Gamma Interferon
+29;360;0;Gamma Interferon
+30;206;1;Placebo
+30;347;0;Placebo
+31;175;1;Placebo
+31;280;1;Placebo
+31;353;0;Placebo
+32;308;0;Placebo
+33;327;0;Gamma Interferon
+34;329;0;Placebo
+35;343;0;Placebo
+36;118;1;Gamma Interferon
+36;240;1;Gamma Interferon
+36;251;0;Gamma Interferon
+37;318;0;Gamma Interferon
+38;304;0;Gamma Interferon
+39;316;0;Placebo
+40;335;0;Gamma Interferon
+41;274;1;Gamma Interferon
+41;361;1;Gamma Interferon
+41;365;0;Gamma Interferon
+42;336;0;Gamma Interferon
+43;350;0;Gamma Interferon
+44;187;1;Gamma Interferon
+44;356;0;Gamma Interferon
+45;339;0;Gamma Interferon
+46;6;1;Placebo
+46;301;0;Placebo
+47;330;0;Placebo
+48;300;0;Placebo
+49;146;1;Gamma Interferon
+49;188;1;Gamma Interferon
+49;300;0;Gamma Interferon
+50;304;1;Placebo
+50;312;0;Placebo
+51;334;0;Gamma Interferon
+52;52;1;Placebo
+52;65;1;Placebo
+52;255;1;Placebo
+52;270;0;Placebo
+53;67;1;Placebo
+53;248;1;Placebo
+53;250;1;Placebo
+53;284;1;Placebo
+53;347;0;Placebo
+54;293;0;Gamma Interferon
+55;265;1;Gamma Interferon
+55;303;0;Gamma Interferon
+56;337;0;Gamma Interferon
+57;91;1;Placebo
+57;121;1;Placebo
+57;203;1;Placebo
+57;287;0;Placebo
+58;293;0;Placebo
+59;293;0;Gamma Interferon
+60;318;0;Gamma Interferon
+61;318;1;Placebo
+61;359;0;Placebo
+62;57;1;Placebo
+62;121;1;Placebo
+62;351;0;Placebo
+63;226;1;Placebo
+63;322;0;Placebo
+64;65;1;Gamma Interferon
+64;343;0;Gamma Interferon
+65;269;0;Gamma Interferon
+66;264;1;Placebo
+66;286;0;Placebo
+67;286;0;Gamma Interferon
+68;273;0;Gamma Interferon
+69;297;0;Gamma Interferon
+70;236;1;Placebo
+70;273;0;Placebo
+71;273;0;Gamma Interferon
+72;207;1;Gamma Interferon
+72;273;0;Gamma Interferon
+73;294;0;Placebo
+74;303;0;Gamma Interferon
+75;281;0;Placebo
+76;273;0;Placebo
+77;255;0;Placebo
+78;269;0;Gamma Interferon
+79;23;1;Placebo
+79;270;0;Placebo
+80;270;0;Gamma Interferon
+81;276;0;Gamma Interferon
+82;264;0;Placebo
+83;245;0;Placebo
+84;261;0;Placebo
+85;270;0;Placebo
+86;113;1;Gamma Interferon
+86;273;0;Gamma Interferon
+87;99;1;Placebo
+87;306;1;Placebo
+87;306;0;Placebo
+88;274;0;Placebo
+89;279;0;Gamma Interferon
+90;14;1;Placebo
+90;278;0;Placebo
+91;278;0;Placebo
+92;284;0;Gamma Interferon
+93;276;0;Placebo
+94;265;0;Gamma Interferon
+95;294;0;Gamma Interferon
+96;277;0;Gamma Interferon
+97;259;0;Gamma Interferon
+98;4;1;Placebo
+98;159;1;Placebo
+98;213;1;Placebo
+98;287;0;Placebo
+99;263;0;Gamma Interferon
+100;167;1;Gamma Interferon
+100;240;0;Gamma Interferon
+101;217;0;Gamma Interferon
+102;271;0;Gamma Interferon
+103;252;0;Placebo
+104;331;0;Gamma Interferon
+105;255;0;Gamma Interferon
+106;271;0;Placebo
+107;254;0;Gamma Interferon
+108;185;0;Gamma Interferon
+109;213;0;Placebo
+110;165;1;Gamma Interferon
+110;210;0;Gamma Interferon
+111;203;0;Placebo
+112;288;0;Placebo
+113;269;0;Placebo
+114;269;0;Placebo
+115;91;0;Placebo
+116;91;0;Placebo
+117;192;0;Placebo
+118;199;0;Gamma Interferon
+119;11;1;Placebo
+119;22;1;Placebo
+119;169;1;Placebo
+119;195;0;Placebo
+121;198;0;Placebo
+122;207;0;Placebo
+123;168;1;Placebo
+123;200;0;Placebo
+125;197;0;Gamma Interferon
+131;243;0;Gamma Interferon
+132;120;1;Placebo
+132;203;0;Placebo
+133;197;0;Gamma Interferon
+134;104;1;Placebo
+134;227;0;Placebo
+135;227;0;Placebo

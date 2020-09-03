@@ -1,0 +1,13 @@
+﻿Data set;Python file;Source;Sample?;Exact Age?;Cost?;Covariates?;Description
+Bladder Tumor;example_bladder.py;Byar (1980);X;½;;X;Byar's (1980) data on 87 recurrences of bladder cancer tumors in 48 patients receiving a placebo in a clinical study with two other treatments.
+CGD;example_CGD.py;Fleming and Harrington (1991);X;½;;X;Fleming and Harrington's (1991) data on recurrences of serious infections in patients with chronic granulomatous disease (CGD) assigned to gamma interferon or placebo treatment.
+Air Conditioner;example_proschan.py;Proschan (2000);X;X;;;Proschan's (2000) data on the failure ages in running hours for 13 airplane air conditioner systems.
+Transmission;example_transmission.py;Nelson (2003);X;X;;X;Nelson's (2003) data on a preproduction road test on a 1995 compact car at the Chrysler Proving Grounds.
+Valve Seats;example_nelson1995.py;Nelson (1995);X;½;;;Nelson's (1995) data on valve seat replacements on 41 locomotives running near Beijing.
+Compressor Repair;example_compressor.py;Ross (1989);;X;;X;Ross' (1989) data on 28 replacements of heat pump compressors under service contract in commercial buildings.
+Child Birth;example_childbirth.py;Nelson (2003);;;;X;Nelson's (2003) data on childbirths collected from statisticians attending the author's short course on recurrence data analysis.
+Defrost;example_defrost.py;Nelson (2003);;;;;Nelson's (2003) data on replacements of defrost controls in refridgerators, where some service contracts were extended for months 1-12, 13-24, and 25-29.
+Field Repair;example_fieldrepair.py;Cook (2008);X;X;X;;Cook (2008) defines a simulation method for data on unscheduled repairs for a fleet of 134 large utility vehicles operated by a city.
+Fan Motor;example_fan.py;Nelson (2003);;;X;;Nelson's (2003) data on the repair cost of 119 residential heat pumps on a service contract that experienced 26 fan motor repairs.
+Gearbox;example_gearboxes.py;Nelson (2003);;;X;X;Nelson's (2003) data on dealer claims on replacements of power steering gearboxes in a fleet of 55,290 cars of a recent model. The data are collected to monitor and forecast claims.
+Monetization;example_monetization.py;;X;X;X;;A simulation method that generates a data set of 300 players with sessions and purchases on a hypothetical mobile game.
